@@ -5,7 +5,9 @@
 
 
 <picture> <img src="оаип/1.png"> 
-</picture>
+</picture> 
+
+```csharp
 
 using System;
 
