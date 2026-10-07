@@ -381,3 +381,42 @@ class Program
         Console.ReadKey();
     }
 }
+
+<picture> <img src="оаип/2.png"> 
+</picture>
+
+<picture> <img src="оаип/3.png"> 
+</picture>
+
+<picture> <img src="оаип/4.png"> 
+</picture>
+
+<picture> <img src="оаип/5.png"> 
+</picture>
+
+<picture> <img src="оаип/6.png"> 
+</picture>
+
+<picture> <img src="оаип/6.png"> 
+</picture>
+
+<picture> <img src="оаип/7.png"> 
+</picture>
+
+<picture> <img src="оаип/8.png"> 
+</picture> 
+
+<picture> <img src="оаип/9.png"> 
+</picture>
+
+<picture> <img src="оаип/10.png"> 
+</picture>
+
+<picture> <img src="оаип/11.png"> 
+</picture>
+
+<picture> <img src="оаип/12.png"> 
+</picture>
+
+<picture> <img src="оаип/13.png"> 
+</picture> 
