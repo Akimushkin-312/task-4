@@ -381,7 +381,8 @@ class Program
         Console.ReadKey();
     }
 }
-
+```
+---
 <picture> <img src="оаип/2.png"> 
 </picture>
 
